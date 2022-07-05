@@ -15,5 +15,5 @@
 ## Xcode 팁
 | 이름  |  마지막 업데이트  | 링크 | 단축키  |  
 |---|---|---|---|
-| 코드 접기,펼치기  |  2022.07.05  | [Link]() | `Option`+`Command`+`<`,`>`   |
+| 코드 접기,펼치기  |  2022.07.05  | [Link](https://github.com/heydoy/SesacTIL/issues/6#issuecomment-1174708916) | `Option`+`Command`+`<`,`>`   |
  
