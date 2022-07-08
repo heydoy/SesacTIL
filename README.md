@@ -13,8 +13,10 @@
 
 
 ## Xcode 팁
-| 이름  |  마지막 업데이트  | 링크 | 단축키  :|  
+| 이름  |  마지막 업데이트  | 링크 | 단축키 혹은 이용경로  :|  
 |---|---|---|---|
+| 뷰 영역 표시하기  |2022.07.04 | |`Editor`>`Canvas`>`Bounds Rectangle 체크`|
+
 | 코드 접기,펼치기  |  2022.07.05  | [Link](https://github.com/heydoy/SesacTIL/issues/6#issuecomment-1174708916) | `Option`+`Command`+`<`,`>`   |
 | 멀티 커서  |2022.07.05| |`Shift`+`Control`+ `⬆️`, `⬇️`|
 |  | | |`Shift`+`Control`+ `왼쪽마우스 클릭`|
