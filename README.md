@@ -16,6 +16,10 @@
 | 이름  |  마지막 업데이트  | 링크 | 단축키  :|  
 |---|---|---|---|
 | 코드 접기,펼치기  |  2022.07.05  | [Link](https://github.com/heydoy/SesacTIL/issues/6#issuecomment-1174708916) | `Option`+`Command`+`<`,`>`   |
-| 멀티 커서  |2022.07.05|[Link]()|`Shift`+`Control`+ `⬆️`, `⬇️`|
+| 멀티 커서  |2022.07.05| |`Shift`+`Control`+ `⬆️`, `⬇️`|
 |  | | |`Shift`+`Control`+ `왼쪽마우스 클릭`|
 |  | | |`Option`+`드래그`|
+| 뷰의 위치정보 보기 |2022.07.06 | | 뷰 클릭 후 `Option`|
+| 코드 스니펫 |2022.07.06 | | 코드에서 `오른쪽마우스 클릭` > `Create Code Snippet...`|
+| 도큐먼트, 헬프 열기 |2022.07.07 | | `Command`+`Shift`+`0`|
+
