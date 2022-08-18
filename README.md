@@ -1,7 +1,8 @@
-# SesacTIL
+# 🌱 SesacTIL
+<br>
 
 
-## iOS 
+## 🍎 iOS 
 
 | 개념  |  배운 날  | 링크 | 키워드  | 마지막 업데이트 |
 |---|---|---|---|---|
@@ -11,13 +12,17 @@
 |  뷰컨트롤러의 생명주기 | 2022.07.05  |  [Link](https://github.com/heydoy/SesacTIL/issues/4#issue-1293884374)  |  `ViewController` `Life cycle` `viewDidLoad()`  | - |
 | ... | | | | |
 
-## Swift 문법 
+<br>
+
+## 📖 Swift 문법 
 | 개념  |  배운 날  | 링크 | 키워드  | 마지막 업데이트 |
 |---|---|---|---|---|
 | for-in vs forEach | 2022.08.17  | [Link](https://github.com/heydoy/SesacTIL/issues/12) |`for loop` `forEach` `for-in` | 2022.08.18 |
 | ... | | | | |
 
-## Xcode 팁
+<br>
+
+## 🛠 Xcode 팁
 | 이름  |  배운 날  | 링크 | 단축키, 이용경로 |  
 |---|---|---|---|
 | 뷰 영역 표시하기  |2022.07.04 | |`Editor`>`Canvas`>`Bounds Rectangle 체크`|
