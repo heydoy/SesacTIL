@@ -10,13 +10,12 @@
 |  HIG | 2022.07.04  |  [Link](https://github.com/heydoy/SesacTIL/issues/3#issue-1293268939)  |  `Human Interface Guideline` | 
 |  뷰컨트롤러의 생명주기 | 2022.07.05  |  [Link](https://github.com/heydoy/SesacTIL/issues/4#issue-1293884374)  |  `ViewController` `Life cycle` `viewDidLoad()`  | 
 | ... | | | |
-|  | | | |
 
 ## Swift 문법 
 | 개념  |  배운 날  | 링크 | 키워드  |   
 |---|---|---|---|
-| ... | | | |
 | for-in vs forEach | 2022.08.17  | [Link](https://github.com/heydoy/SesacTIL/issues/12) |`for loop` `forEach` `for-in` |
+| ... | | | |
 
 ## Xcode 팁
 | 이름  |  배운 날  | 링크 | 단축키 혹은 이용경로 |  
@@ -31,4 +30,3 @@
 | 코드 스니펫 |2022.07.06 | | 코드에서 `오른쪽마우스 클릭` > `Create Code Snippet...`|
 | 도큐먼트, 헬프 열기 |2022.07.07 | | `Command`+`Shift`+`0`|
 | ... | | | |
-|  | | | |
