@@ -18,6 +18,7 @@
 | 개념  |  배운 날  | 링크 | 키워드  | 마지막 업데이트 |
 |---|---|---|---|---|
 | for-in vs forEach | 2022.08.17  | [Link](https://github.com/heydoy/SesacTIL/issues/12) |`for loop` `forEach` `for-in` | 2022.08.18 |
+| Type Casting | 2022.08.18 | [Link](https://github.com/heydoy/SesacTIL/issues/13#issue-1343201157) | `타입캐스팅` `as` `is` | - |
 | ... | | | | |
 
 <br>
