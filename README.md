@@ -10,7 +10,7 @@
 | WWDC | 2022.07.04  | [Link](https://github.com/heydoy/SesacTIL/issues/2#issue-1293266122)   | `WWDC`  | - |
 |  HIG | 2022.07.04  |  [Link](https://github.com/heydoy/SesacTIL/issues/3#issue-1293268939)  |  `Human Interface Guideline` | - |
 |  뷰컨트롤러의 생명주기 | 2022.07.05  |  [Link](https://github.com/heydoy/SesacTIL/issues/4#issue-1293884374)  |  `ViewController` `Life cycle` `viewDidLoad()`  | - |
-| ... | | | | |
+| 뷰컨트롤러에서 역으로 값 전달하기 | 2022.08.18 | [Link](https://github.com/heydoy/SesacTIL/issues/14#issue-1343900419)| `VC간 값 전달` `Closure` `Notification` `Protocol`| 2022.08.19|
 
 <br>
 
