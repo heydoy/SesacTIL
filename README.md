@@ -14,6 +14,9 @@
 | Realm | 2022.08.22 | [Link](https://github.com/heydoy/SesacTIL/issues/15#issue-1346425743) | `데이터베이스` `관계형 데이터베이스` `Realm` `RDBMS` `DBMS`| - |
 | ... | | | | |
 | DispatchGroup | 2022.09.22 | [Link](https://github.com/heydoy/SesacTIL/issues/16) | `디스패치그룹` `동기` `비동기` | - |
+| ... | | | | |
+| ARC(Auto Referencing Counting)  | 2022.09.06 | [정리중] | `weak` `unowned` `strong` | - | 
+| Capture List | 2022.09.06 | [정리중] | `[weak self]` `캡쳐리스트` | - |
 
 <br>
 
