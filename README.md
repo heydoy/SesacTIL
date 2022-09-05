@@ -12,6 +12,8 @@
 |  뷰컨트롤러의 생명주기 | 2022.07.05  |  [Link](https://github.com/heydoy/SesacTIL/issues/4#issue-1293884374)  |  `ViewController` `Life cycle` `viewDidLoad()`  | - |
 | 뷰컨트롤러에서 역으로 값 전달하기 | 2022.08.18 | [Link](https://github.com/heydoy/SesacTIL/issues/14#issue-1343900419)| `VC간 값 전달` `Closure` `Notification` `Protocol`| 2022.08.19|
 | Realm | 2022.08.22 | [Link](https://github.com/heydoy/SesacTIL/issues/15#issue-1346425743) | `데이터베이스` `관계형 데이터베이스` `Realm` `RDBMS` `DBMS`| - |
+| ... | | | | |
+| DispatchGroup | 2022.09.22 | [Link](https://github.com/heydoy/SesacTIL/issues/16) | `디스패치그룹` `동기` `비동기` | - |
 
 <br>
 
